@@ -17,7 +17,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - componentWillMount() : DOM 노드에 추가하기 직전에 호출.
 2. state 를 필요로 하지 않는 컴포넌트의 경우에는 class 로 만들필요없이 function 으로 만들어도 된다.
 
+## 4일차
+1. create-react-app 덕분에 CSS 통합이 쉽다.
+2. React 에서 Map 을 호출하여 태그를 만들때는 Key 속성이 반드시 필요함.
+3. JSX에서 속성명이 다른것이 있다.    
+class -> className(component class 와 겹치므로)  
+for -> htmlFor(반복문과 겹치므로)  
+   
 
-## 4.2 동영상 시청해야함
-https://nomadcoders.co/react-fundamentals/lectures/1557
+
+## 5.0 동영상 시청해야함
+https://nomadcoders.co/react-fundamentals/lectures/1561
 
