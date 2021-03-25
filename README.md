@@ -24,6 +24,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 class -> className(component class 와 겹치므로)  
 for -> htmlFor(반복문과 겹치므로)  
    
+## 5일차
+1. npm i gh-pages 로 깃허브에 사이트를 배포해본다  
+package.json 에 "homepage" 를 추가하는데, 주소는 https://{내 유저명}}.github.io/movie_app 으로한다(git remove -v로 확인).
+2. npm run deploy 를 호출하면 똑똑하게 만들어둔 predeploy를 호출해줌.
+
 
 
 ## 5.0 동영상 시청해야함
