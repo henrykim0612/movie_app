@@ -19,6 +19,7 @@ class App extends React.Component {
     this.getMovies();
   }
 
+
   render() {
     const {isLoading, movies} = this.state;
     return (
