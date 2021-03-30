@@ -22,8 +22,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. React 에서 Map 을 호출하여 태그를 만들때는 Key 속성이 반드시 필요함.
 3. JSX에서 속성명이 다른것이 있다.    
 class -> className(component class 와 겹치므로)  
-for -> htmlFor(반복문과 겹치므로)  
+for -> htmlFor(반복문과 겹치므로)
    
+## 5일차
+1. Lint 태그를 사용하기 위해서는 반드시 Router 태그 안에 넣어라.  
+
 
 
 ## 5.0 동영상 시청해야함
